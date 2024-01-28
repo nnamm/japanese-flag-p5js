@@ -11,6 +11,7 @@ dist-ssr
 # Editor directories and files
 .idea
 .DS_Store
+package-lock.json
 *.suo
 *.ntvs*
 *.njsproj
